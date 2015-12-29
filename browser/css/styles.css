@@ -1,0 +1,24 @@
+body a{
+	color: #FF1493;
+}
+
+#background {
+	top: -20%;
+	left: 0;
+	width: 100%;
+	position: fixed;
+	filter: grayscale(100%);
+	z-index: -50;
+}
+
+#bio {
+	position: absolute;
+	left: 8vw;
+	top: 8vw;
+	right: 8vw;
+	bottom: 25vw;
+	border-radius: 2vw;
+	padding: 1vw;
+	background-color: rgba(255,255,255,.7);
+	font-family: Montserrat;
+}
