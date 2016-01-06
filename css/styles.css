@@ -7,7 +7,7 @@ body a{
 	left: 0;
 	width: 100%;
 	position: fixed;
-	filter: grayscale(100%);
+	filter: grayscale();
 	z-index: -50;
 }
 
